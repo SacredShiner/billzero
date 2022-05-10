@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714376165409",
+    "firebase_url": "https://prodbillzeroapp.firebaseio.com",
+    "project_id": "prodbillzeroapp",
+    "storage_bucket": "prodbillzeroapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714376165409:android:22c3ecc82c28f2ebd3cb60",
+        "android_client_info": {
+          "package_name": "com.billzero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714376165409-8qd5qc5gb56n91rao4vs7sja8p5k5k88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0phfQ4tS2VYoyq6F_8_FkGfp8UJ4YTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714376165409-8qd5qc5gb56n91rao4vs7sja8p5k5k88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714376165409-al30a4rv4fp6jakeqciua4qn1bp4bnr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.billzero.app",
+                "app_store_id": "1476906978"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
